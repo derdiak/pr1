@@ -1,0 +1,20 @@
+header {
+  background-color: #ffff00;
+}
+main {
+  background-color: #00ffff;
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+main p {
+  color: yellow;
+}
+
+.paragraph-2 {
+  color: black;
+  border: 2px solid red;
+}
